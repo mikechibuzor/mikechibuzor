@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email(iwuagwuchibuzor@gmail.com)
 - ⚡ Fun fact: I make magic with code
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikechibuzor&theme=dark&hide_border=true)](https://git.io/streak-stats)
