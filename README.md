@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about JavaScript/TypeScript/Vuejs/NuxtJs/React
-- 📫 How to reach me: email(iwuagwuchibuzor@gmail.com)
+- 📫 How to reach me: iwuagwuchibuzor@gmail.com
 - ⚡ Fun fact: I make magic with code
 
 
 
-![Chibuzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Chibuzor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikechibuzor&show_icons=true&theme=transparent)
